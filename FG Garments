@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="website icon" href="images/fazi.1.jpg" type="png" sizes="128*128" id="home">
+    <title>FG Garments</title>
+</head>
+<body>
+    <header>
+        <style>
+            .navbar {
+                background-color: #f77205;
+                padding: 10px;
+                text-align: center;
+            }
+            .navbar a {
+                margin: 0 10px;
+                text-decoration: none;
+                color: #a3fa02;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="navbar">
+            <a href="index.html" target="_blank"> Home</a>
+            <a href="product.html" target="_blank">Products</a>
+            <a href="about.html" target="_blank">About Us</a>
+            
+        </div>
+    </header>
+   <header>
+    <img src="images/fazi3.png" alt="Header Image"style="width:100%; height:auto;">
+   </header>
+   <header style="background-color: #ecb1b1; padding: 20px; text-align: center; border-bottom: 1px solid #e9ec0e;">
+    <h1 style="margin: 0 0 10px 0; font-size: 2.5em; font-weight: bold;">Welcome to FG Garments</h1>
+    <p style="margin: 0; font-size: 1.2em; color: #1a0505;">
+        Discover our exclusive collection of fashion-forward garments. From casual wear to elegant evening dresses, we have something for every occasion. Explore our new arrivals and enjoy premium quality at great prices.
+    </p>
+</header>
+    <main><big><p>Discover the latest trends in fashion at FG Garments! We offer a stunning collection of high-quality garments for every occasion. <br> From elegant dresses and casual wear to bespoke suits and accessories, our selection is curated to make you look and feel your best.</p>
+    <p>Why choose us?</p>
+    <ul>
+        <li>Exclusive Designs: Our garments are designed by top-notch designers and are unique to our store.</li>
+        <li>Premium Quality: We use the finest fabrics and materials to ensure maximum comfort and durability.</li>
+        <li>Personalized Service: Enjoy a personalized shopping experience with our expert fashion consultants.</li>
+        <li>Affordable Prices: Get the best value for your money with our competitive pricing and special offers.</li>
+    </ul>
+    <p>Visit us today and transform your wardrobe with the latest fashion trends</p></big>
+    <h1><big><u>MANS Collection</u></big></h1>
+    <p>At <u>FG Garments;</u>  we pride ourselves on offering the finest men's clothing, crafted from premium fabrics with meticulous attention to detail . <br> Our garments are designed to provide unparalleled comfort, durability, and style.</p>
+<i><b><p>Why Our Quality Stands Out:</p></b></i>
+<ul>
+    <li><strong>Premium Fabrics:</strong> We use the highest quality materials for superior comfort and longevity.</li>
+    <li><strong>Expert Craftsmanship:</strong> Each piece is carefully crafted to ensure a perfect fit and flawless finish.</li>
+    <li><strong>Timeless Style:</strong> Our designs combine classic elegance with modern trends for a sophisticated look.</li>
+</ul>
+<img src="images/p1.jpg" alt="" width="250mx" height="270mx">
+<img src="images/p2.jpeg" alt="" width="250mx" height="270mx">
+<img src="images/p3.webp" alt="" width="250mx" height="270mx">
+<img src="images/p4.jpeg" alt="" width="250mx" height="270mx">
+</div> 
+<h1><big><u>Girls Collection</u></big></h1> 
+<h1>Explore Our Adorable Girls' Clothing Collection</h1>
+<p><b><u>At FG Garments</u></b>, we offer a delightful range of girls' clothing that combines style, comfort, and quality.  <br>From playful dresses and casual outfits to elegant attire for special occasions, our collection is designed to make every girl feel special.</p>
+<p><b><i>Why Our Collection Stands Out:</p></i></b>
+<ul>
+    <li>Vibrant and Trendy Designs</li>
+    <li>High-Quality, Comfortable Fabrics</li>
+    <li>Perfect for Everyday Wear and Special Occasions</li>
+</ul>
+<p>Discover the perfect outfit for your little one</p>
+<img src="images/pw1.jpeg" alt="" width="250mx" height="270mx">
+<img src="images/pw2.jpeg" alt="" width="250mx" height="270mx">
+<img src="images/pw3.jpeg" alt="" width="250mx" height="270mx">
+<img src="images/pw4.jpeg" alt="" width="250mx" height="270mx">
+<h1><big><u>CHILDREN Collection</u></big></h1>
+<div class="header">
+    <h1>Discover Our Charming Children's Clothing Collection</h1>
+    <p><b><i><u>At FG Garments</u></i></b>, we offer a wide range of children's clothing that blends style, comfort, and durability. <br>From playful everyday wear to special occasion outfits, our collection ensures your child looks and feels great.</p>
+   <p><b><i>Why Choose Our Children's Clothing?</i></b></p>
+    <ul>
+        <li>Fun and Stylish Designs</li>
+        <li>Soft, Comfortable Fabrics</li>
+        <li>Durable for Active Play</li>
+    </ul>
+    <p>Find the perfect outfits for your little ones</p>
+<img src="images/pc4.jpg" alt="" width="250mx" height="270mx">
+<img src="images/pc1.jpeg" alt="" width="250mx" height="270mx">
+<img src="images/pc2.jpeg" alt="" width="250mx" height="270mx">
+<img src="images/pc3.webp" alt="" width="250mx" height="270mx">
+</div>
+<pre>  <big>   <h2>You can get the more information in my youtube channal. </h2>   </big></pre>
+<p>Discover the latest in fashion for everyone!</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KteX0VPOo1w?si=390nfJQkOuYDz7Qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></main>
+<footer>
+    <style>
+        .footer {
+            margin-top: 50px;
+            padding: 40px 20px;
+            background-color: #5e758b;
+            color: rgb(185, 231, 112);
+            text-align: center;
+        }
+    </style>   
+</head>
+<div class="footer">
+        <h2>Stay Connected</h2>
+        <p>Follow us on social media and stay updated with our latest collections and offers.</p>
+        <ul>
+            <li><a href="https://www.facebook.com/yourshop" target="_blank">facebook</a></li>
+            <li><a href="https://www.instagram.com/yourshop" target="_blank">Instagram</a></li>
+            <li><a href="https://www.twitter.com/yourshop" target="_blank">Twitter</a></li>
+            <li><a href="https://www.youtube.com/yourshop" target="_blank">YouTube</a></li>
+        </ul>
+        <p>&copy; 2024 [Your Shop Name]. All rights reserved.</p>
+        <p><a href="mailto:info@yourshop.com">Contact Us</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-of-service">Terms of Service</a></p>
+    </div>
+</footer>
+</script>
+</body>
+</html>
